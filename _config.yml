@@ -16,14 +16,14 @@ color:
 people:
 - name: Sumeet Rohatgi
   pic: 1
-  position: Lead Designer
+  position: CEO
   social:
+    - title: linkedin
+      url: http://linkedin.com/in/sumeetrohatgi
+    - title: github
+      url: http://github.com/srohatgi
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://twitter.com/sum_rtg
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
